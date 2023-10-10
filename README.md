@@ -1,5 +1,4 @@
 # Mwendo-Clone
-
 # Mwendo - Your Ultimate Tour and Travel Booking Web Application
 
 Welcome to the Mwendo repository! Our project is dedicated to revolutionizing the way you plan and book your tours and travels. Mwendo is a user-friendly web application designed to make the process of booking tours and travels hassle-free and enjoyable. With a focus on simplicity, efficiency, and a seamless user experience, Mwendo is your go-to solution for all your travel needs.
